@@ -3,12 +3,12 @@ This project shows a simple component test of Demo Service from a microservices 
 
 
 Here is a simplied architecture in a component level, which demonstrates how Demo Service should interact with other mock services: 
-![alt text](https://github.com/Rebo001/BDD-automate-component-testing-demo/doc/SimplifiedDemoArchitecture.png?raw=true)
+![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/SimplifiedDemoArchitecture.png?raw=true)
 
 
 
 Here is a simple architecture in a high-level.
-![alt text](https://github.com/Rebo001/BDD-automate-component-testing-demo/doc/project_archiecture.jpg?raw=true)
+![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/project_archiecture.jpg?raw=true)
 
 
 [More details about project](https://rebecca-li-portfolio.imfast.io/)
@@ -81,6 +81,6 @@ It simulates - sending a JMS message to queue by mock services to Demo Service a
    
    
 
-   
+
 * Contributor: Rebecca
 * Date: 10/06/2020
