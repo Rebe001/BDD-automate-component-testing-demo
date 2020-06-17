@@ -1,0 +1,24 @@
+{
+  "javaInterfaces":[
+    "java.io.Serializable"
+  ],
+  "type":"object",
+  "required":[
+    "function_status",
+    "function_error_code"
+  ],
+  "properties":{
+    "function_status":{
+      "type":"string",
+      "description":"",
+      "enum":[
+        "COMPLETED",
+        "FAILED"
+      ]
+    },
+    "function_error_code":{
+      "type":"string",
+      "description":""
+    }
+  }
+}

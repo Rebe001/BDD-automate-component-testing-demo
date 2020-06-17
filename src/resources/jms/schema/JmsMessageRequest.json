@@ -1,0 +1,15 @@
+{
+  "javaInterfaces": [
+    "java.io.Serializable"
+  ],
+  "type": "object",
+  "required": [
+    "configurationId"
+  ],
+  "properties": {
+    "configurationId": {
+      "type": "String",
+      "description": "Unique identifier for a configuration"
+    } 
+  }
+}
