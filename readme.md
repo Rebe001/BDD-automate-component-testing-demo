@@ -4,7 +4,7 @@ This project shows a simple component test of Demo Service from a microservices 
 <br>
 This is a simplied architecture diagram based on my work project. It shows how front end connects with back end, production site and SAP in a higher level:
 <br>
-![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/master/images/project_archiecture.jpg?raw=true)
+![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/images/project_archiecture.jpg?raw=true)
 
 
 
