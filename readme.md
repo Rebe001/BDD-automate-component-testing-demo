@@ -4,7 +4,7 @@ This project shows a simple component test of Demo Service from a microservices 
 <br>
 This is a simplied architecture diagram based on my work project. It shows how front end connects with back end, production site and SAP in a higher level:
 <br>
-![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/project_archiecture.jpg | width=350)
+<img src="https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/project_archiecture.jpg" width="350">
 
 
 
@@ -20,7 +20,7 @@ This is a simplied architecture diagram based on my work project. It shows how f
 
 This is a simplied flow diagram of Demo Service in component level. It demonstrates how Demo Service interacts with other mock services.
 <br> 
-![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/demo_service_flow_diagram.png | width=300)
+<img src="https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/demo_service_flow_diagram.png" width=300>
 
 
 
@@ -82,10 +82,10 @@ In short, this test case simulates - sending a JMS message to queue by mock serv
  
 * Test execuetion Framework: [BDD](https://cucumber.io/docs/bdd/)
 * BDD language: [Cucumber](https://cucumber.io/docs/guides/overview/)
-* [Java Programming] (https://java.com/en/download/faq/whatis_java.xml)
+* [Java Programming](https://java.com/en/download/faq/whatis_java.xml)
 * Java Framework: [MVC](https://www.oracle.com/technical-resources/articles/javase/mvc.html)
 * Framework: [Microservices](https://spring.io/blog/2015/07/14/microservices-with-spring)
-* Unit testing framework: [Junit] (https://junit.org/junit4/)
+* Unit testing framework: [Junit](https://junit.org/junit4/)
 * [Rest Api](https://www.restapitutorial.com/), [JMS](https://www.oracle.com/java/technologies/java-message-service.html)
 * Database: [Oracle sql](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
 
