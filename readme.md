@@ -94,7 +94,7 @@ In short, this test case simulates - sending a JMS message to queue by mock serv
 
 
 ## Directory tree structure
-```bash
+```
 	└─ Bdd automate component testing demo/
 		├─ features/
 		|	└─ component/
