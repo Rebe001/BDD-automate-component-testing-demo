@@ -4,7 +4,7 @@ This project shows a simple component test of Demo Service from a microservices 
 <br>
 This is a simplied architecture diagram based on my work project. It shows how front end connects with back end, production site and SAP in a higher level:
 <br>
-<img src="https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/project_archiecture.jpg" width="350">
+![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/project_archiecture.jpg) <!-- .element width="50%" -->
 
 
 
@@ -20,7 +20,7 @@ This is a simplied architecture diagram based on my work project. It shows how f
 
 This is a simplied flow diagram of Demo Service in component level. It demonstrates how Demo Service interacts with other mock services.
 <br> 
-<img src="https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/demo_service_flow_diagram.png" width=300>
+![alt text](https://github.com/Rebe001/BDD-automate-component-testing-demo/blob/master/doc/demo_service_flow_diagram.png) <!-- .element width="50%" -->
 
 
 
