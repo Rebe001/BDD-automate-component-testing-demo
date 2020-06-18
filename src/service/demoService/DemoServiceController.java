@@ -93,7 +93,7 @@ public class DemoServiceController extends BaseClient {
         jsonObject.put("OK");
         HttpEntity<String> httpRequest = new HttpEntity<>(jsonObject.toString(), headers);
         try {
-            response = exchangePostEndpoint(httpRequest,"/response-service/v1/render-output");
+            response = exchangePostEndpoint(httpRequest,"/demo-service/render-output");
             this.getDemoService().setLastHttpStatusCode(response.getStatusCodeValue());
             this.getDemoService().setLastJmsMessageResponse(response);
         }

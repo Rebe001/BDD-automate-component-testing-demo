@@ -6,7 +6,7 @@ Feature: Demo-test
 
   Objetive : Verify Response Data Delivery after Processing Completion
 
-  Precondition : Demo Service is active
+  Precondition : Demo Service is connected
   PostCondition : 
   Automated : true
   Type : Functional
